@@ -1,0 +1,9 @@
+{
+  "appId": "com.autoassist.app",
+  "appName": "AutoAssist",
+  "webDir": ".output/public",
+  "server": {
+    "androidScheme": "http",
+    "iosScheme": "capacitor"
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AutoAssist</string>
+    <string name="title_activity_main">AutoAssist</string>
+    <string name="package_name">com.autoassist.app</string>
+    <string name="custom_url_scheme">com.autoassist.app</string>
+</resources>
